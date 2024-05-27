@@ -1,1 +1,26 @@
-/*# sourceMappingURL=style.css.map */
+main {
+  width: 400px;
+  margin: 0 auto;
+}
+main h1 {
+  text-align: center;
+}
+main textarea {
+  all: unset;
+  border: 1px solid #111;
+  border-radius: 8px;
+  display: block;
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  resize: none;
+  padding: 8px;
+}
+main .buttons {
+  text-align: right;
+  margin-top: 16px;
+}
+main .buttons button {
+  padding: 4px 16px;
+  margin-left: 8px;
+}/*# sourceMappingURL=style.css.map */
